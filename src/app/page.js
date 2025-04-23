@@ -31,7 +31,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="flex flex-col items-center gap-6 opacity-50">
         <p>Jack McGrath 2025</p>
-        <p className="opacity-20">vibe coding forever! lol</p>
+        <p className="opacity-30">vibe coding forever! lol</p>
       </footer>
     </div>
   );
